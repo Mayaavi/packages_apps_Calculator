@@ -22,7 +22,7 @@
     <!-- Application copyright -->
     <string name="application_copyright">Copyright \u00A9 2013 The CyanogenMod Project</string>
     <!-- Application version -->
-    <string name="application_version" translatable="false">v3.1.2</string>
+    <string name="application_version" translatable="false">v3.3.2</string>
     <!-- If there is a syntax error in the user entered calculation, an error dialog will appear.  This is the title. -->
     <string name="error">Error</string>
     <!-- Displayed numbers for the digit buttons -->
@@ -144,6 +144,10 @@
     <string name="function">Function panel</string>
     <!-- Menu item text to take user to the screen with the hex digits and operators. -->
     <string name="hexPanel">Hex panel</string>
+    <!-- Menu item text to lock view pager. -->
+    <string name="lock">Lock Page</string>
+    <!-- Menu item text to unlock view pager. -->
+    <string name="unlock">Unlock Page</string>
     <!-- Menu item text to clear the calculation history. -->
     <string name="clear_history">Clear history</string>
     <!-- Toast shown when text is copied to the clipboard. -->
@@ -190,6 +194,7 @@
     <string name="pref_units">Units</string>
     <string name="pref_about">About</string>
     <string name="returnToBasic">Return to the basic panel</string>
+    <string name="digitGrouping">Digit Grouping</string>
     <string name="trigUnits">Trig units</string>
     <string name="radians">RAD</string>
     <string name="degrees">DEG</string>
